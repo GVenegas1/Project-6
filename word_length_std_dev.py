@@ -7,7 +7,7 @@
 #length of words in a sentence.
 
 
-def words_length_std_dev(text):
+def word_length_std_dev(text):
     """
     This function takes the string (text) and returns the standard deviation
     of the word length.
