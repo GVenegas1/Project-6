@@ -49,5 +49,5 @@ def word_length_std_dev(text):
 
 #Test the function
 text= "elle when tp sleep early"
-answer= words_length_std_dev(text)
+answer= word_length_std_dev(text)
 print("The STD is ", round(answer, 2))
